@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am a PhD student at Shanghai Center for Mathematical Science(SCMS), Fudan University from 2020. And I obtained my Bachelor's Degree from Fudan University in 2020. I major in Combinatorics and Graph theory. Welcome to communicate with me!
+I am a PhD student at Shanghai Center for Mathematical Sciences(SCMS), Fudan University from 2020. And I obtained my Bachelor's Degree from Fudan University in 2020. I major in Combinatorics and Graph theory. Welcome to communicate with me!
 
 E-mail: wtzhang20@fudan.edu.cn
 
